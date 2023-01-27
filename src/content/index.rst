@@ -5,24 +5,21 @@
 :Template: default
 :Base_template: base_default
 
-=============================================================================================
-Data for: Tetragonal distortion in magnetron sputtered bcc-W films with supersaturated carbon 
-=============================================================================================
+=====================================================================================================
+Data for: ADAQ: Automatic workflows for magneto-optical properties of point defects in semiconductors
+=====================================================================================================
 
-Materials & Design (2022)
+`Computer Physics Communications (2021) <https://doi.org/10.1016/j.cpc.2021.108091>`__
 
-*B.O. Mukhamedov*\ :sup:`1`, *S. Fritze*\ :sup:`2`, *M. Ottosson*\ :sup:`2`, *B. Osinger*\ :sup:`2`, *E. Lewin*\ :sup:`2`, *B. Alling*\ :sup:`1`, *U. Jansson*\ :sup:`2`, *I.A. Abrikosov*\ :sup:`1,3`
+*Joel Davidsson*\ :sup:`1`, *Viktor Ivády*\ :sup:`1,2`, *Rickard Armiento*\ :sup:`1`, Igor A. Abrikosov\ :sup:`1`
 
-| :sup:`1`\ Theoretical Physics Division, Department of Physics, Chemistry and Biology (IFM), Linköping University, SE-581 83, Linköping, Sweden.
-| :sup:`2`\ Department of Chemistry-Ångström, Uppsala University, Box 538, SE-75121 Uppsala, Sweden.
-| :sup:`3`\ Materials Modeling and Development Laboratory, National University of Science and Technology ’MISIS’, 119049 Moscow, Russia. 
+| :sup:`1`\ Department of Physics, Chemistry and Biology, Linköping University, Linköping, Sweden.
+| :sup:`2`\ Wigner Research Centre for Physics, Budapest, Hungary.
 |
 
-Carbon has a low solid solubility in bcc tungsten at equilibrium. However, metastable supersaturated solid solutions can be synthesized with magnetron sputtering. Here, we present a systematic study on the phase stability and mechanical properties of such supersaturated W–C solid solutions. Θ–2θ scans show a split of the 200/020 and the 002 peaks for supersaturated films which is explained by a tetragonal distortion of the bcc structure. This split increases with increasing C content and is maximized at 4 at.% C, where we observe an a/b axis of 3.15-3.16 Å and a c-axis of 3.21-3.22 Å. We performed first-principles calculations of lattice parameters, mixing enthalpies, elastic constants and polycrystalline elastic moduli for cubic and tetragonal W–C solid solutions. Calculations show that tetragonal structure is more stable than the bcc supersaturated solid solution and the calculated lattice parameters and Young’s moduli follow the same trends as the experimental ones as a function of C concentration. The results suggest that supersaturated films with lattice distortion can be used as a design approach to improve the properties of transition metal films with a bcc structure. 
-
-*Keywords:* Tungsten; Supersaturated solid solution; Thin film diffraction; Density functional theory; Thermodynamic stability; Elastic property.
+Automatic Defect Analysis and Qualification (ADAQ) is a collection of automatic workflows developed for high-throughput simulations of magneto-optical properties of point defects in semiconductors. These workflows handle the vast number of defects by automating the processes to relax the unit cell of the host material, construct supercells, create point defect clusters, and execute calculations in both the electronic ground and excited states. The main outputs are the magneto-optical properties which include zero-phonon lines, zero-field splitting, and hyperfine coupling parameters. In addition, the formation energies are calculated. We demonstrate the capability of ADAQ by performing a complete characterization of the silicon vacancy in silicon carbide in the polytype 4H (4H-SiC).
 
 Data
 ----
 
-An archive with the data related to this work is available here: `W_C_all_files.tar.gz <https://mdi.gitlab-pages.liu.se/data/wctmd/W_C_all_files.tar.gz>`__
+An archive with the data related to this work is available here: `adaq.tar.gz <https://mdi.gitlab-pages.liu.se/data/adaq/adaq.tar.gz>`__
