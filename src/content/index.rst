@@ -25,8 +25,14 @@ Data
 An archive with the data related to this work is available here:
 
 - Hosted by Open Materials Database: `adaq.tar.gz <https://public.openmaterialsdb.se/ADAQ_Automatic_Workflows/adaq.tar.gz>`__
+- Hosted by FigShare: https://doi.org/10.6084/m9.figshare.14534067.v2
 
 Note: if any of the above links are broken or anything else needs to be updated, please let us know using `the contact info on the dataset web page. <https://data.openmaterialsdb.se>`__
+
+Link to this page
+-----------------
+
+This can be used as a stable link to this page: https://data.openmaterialsdb.se/adaq_auto
 
 More information
 ----------------
