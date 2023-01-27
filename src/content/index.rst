@@ -22,4 +22,4 @@ Automatic Defect Analysis and Qualification (ADAQ) is a collection of automatic 
 Data
 ----
 
-An archive with the data related to this work is available here: `adaq.tar.gz <https://mdi.gitlab-pages.liu.se/data/adaq/adaq.tar.gz>`__
+An archive with the data related to this work is available here: `adaq.tar.gz <http://datasets.anyterial.se/ADAQ_Automatic_Workflows/adaq.tar.gz>`__
