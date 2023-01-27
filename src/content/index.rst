@@ -29,12 +29,12 @@ An archive with the data related to this work is available here:
 
 Note: if any of the above links are broken or anything else needs to be updated, please let us know using `the contact info on the dataset web page. <https://data.openmaterialsdb.se>`__
 
-Link to this page
------------------
-
-This can be used as a stable link to this page: https://data.openmaterialsdb.se/adaq_auto
-
 More information
 ----------------
 
 More information about ADAQ is available at https://httk.org/adaq
+
+Permanent link
+--------------
+
+The permanent URL to use for this page is: https://data.openmaterialsdb.se/adaq_auto
