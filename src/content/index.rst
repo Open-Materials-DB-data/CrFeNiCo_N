@@ -37,4 +37,6 @@ More information about ADAQ is available at https://httk.org/adaq
 Permanent link
 --------------
 
-The permanent URL to use for this page is: https://data.openmaterialsdb.se/adaq_auto
+A permanent URL to this page is: 
+
+- https://data.openmaterialsdb.se/adaq_auto
