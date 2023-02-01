@@ -5,9 +5,9 @@
 :Template: default
 :Base_template: base_default
 
-==================
+========================================================
 Data for: Phase formation in CrFeCoNi nitride thin films
-==================
+========================================================
 
 `Physical Review Materials (2023) <https://example.com>`__
 
